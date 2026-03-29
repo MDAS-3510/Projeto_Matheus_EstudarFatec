@@ -90,11 +90,6 @@ public class Tarefa {
 		this.importante = importante;
 	}
 
-
-
-
-	
-	// Override para facilitar a visualização no console 
 	
 	@Override
 	public String toString() {
