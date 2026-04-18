@@ -49,7 +49,7 @@ public class DisciplinaService {
 	public void atualizar(Disciplina disciplina) {
 		if(disciplina.getNome() == null || disciplina.getNome().isEmpty()) {
 		    throw new IllegalArgumentException("Nome não pode ser vazio!");
-		}
+		} 
 		if(disciplina.getNome().length() < 2) {
 		    throw new IllegalArgumentException("Nome deve ter pelo menos 2 caracteres!");
 		}
