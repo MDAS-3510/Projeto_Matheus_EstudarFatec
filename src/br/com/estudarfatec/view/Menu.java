@@ -270,9 +270,10 @@ public class Menu {
 					
 			case 6:
 				System.out.println("                ");
-				System.out.println("1 - Começar Timer ");
+				System.out.println("1 - Começar Timer (Pomodoro) ");
 				System.out.println("2 - Flash Cards ");
 				System.out.println("3 - Revisão ");
+				System.out.println("0 - Voltar");
 				
 				
 				

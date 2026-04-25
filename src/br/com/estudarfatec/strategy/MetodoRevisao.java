@@ -4,8 +4,7 @@ public class MetodoRevisao implements MetodoEstudo {
 	
 	@Override
 	public void estudar() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("Qual resumo vc quer pegar");
 	}
 	
 }
