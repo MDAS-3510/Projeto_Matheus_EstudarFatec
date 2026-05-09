@@ -1,5 +1,9 @@
 package br.com.estudarfatec.controller;
 
-public class TarefaController {
+import br.com.estudarfatec.service.TarefaService;
+
+public class TarefaController{
+	private TarefaService service;
+	
 
 }
