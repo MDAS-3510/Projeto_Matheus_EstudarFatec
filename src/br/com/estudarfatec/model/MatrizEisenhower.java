@@ -1,7 +1,6 @@
 package br.com.estudarfatec.model;
 
 import java.util.ArrayList;
-import br.com.estudarfatec.model.Tarefa;
 
 public class MatrizEisenhower {
 	private ArrayList<Tarefa> fazerAgora;  // importante E urgente
